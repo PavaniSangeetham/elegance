@@ -80,17 +80,15 @@ input{
     width:600px;
     box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
     padding:10px;
-   margin:8% auto 0;
-
-    text-align:center;
-    border-color: black;
-}
-first{
-    width:400px;
-    height:300px;
-    box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
-    padding:10px;
     margin:8% auto 0;
     text-align:center;
     border-color: black;
+}
+.first{
+    width:600px;
+    box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
+    background:rgba(255, 192, 203, 0.51);
+    padding:20px;
+    margin:8% auto 0;
+    text-align:center;
 }
